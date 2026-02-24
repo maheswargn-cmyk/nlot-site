@@ -22,14 +22,14 @@ nav a{
 
 nav a:hover{opacity:.7}
 
-.hero{
-    height:70vh;
+.hero {
+    height:80vh;
     background:url('nlot.jpg') center/cover no-repeat;
     display:flex;
     align-items:center;
-    justify-content:center;
+    justify-content:flex-start; 
+    padding-left:8%;     
     color:white;
-    text-align:center;
     position:relative;
 }
 
