@@ -151,7 +151,8 @@ footer{
 
 /* TEXT STYLING */
 .hero-text h1{
-    font-size:3rem;
+    white-space:nowrap; 
+    font-size:clamp(1.4rem, 3vw, 2.8rem);
     margin-bottom:15px;
 }
 
